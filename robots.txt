@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://forevercrab321-svg.github.io/last-thing-book/sitemap.xml
